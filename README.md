@@ -59,3 +59,5 @@ CINE NEW YEARS BOT — это простой и удобный инструме�
 
 
 ***Удачного просмотра и счастливого Нового года!*** 🎆
+
+![alt text](https://github.com/shoodeen/CINE-NEW-YEARS-BOT/blob/26b45a8e108b0e3315ba381aa9fcc957b3dd66f3/bruce-willis-die-hard.gif)

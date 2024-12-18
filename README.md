@@ -1,4 +1,4 @@
-# CINE-NEW-YEARS-BOT
+# [CINE-NEW-YEARS-BOT](https://t.me/cine_new_year_bot)
 Telegram-бот для поиска новогодних фильмов
 
 📋 **Описание**
